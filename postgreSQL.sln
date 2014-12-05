@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "postgreSQL", "postgreSQL\postgreSQL.csproj", "{3999B122-3921-447F-B54D-D0796F6F9462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentModal", "StudentModal\StudentModal.csproj", "{D15842EB-2621-4C67-9436-54B4600CA1BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{AC15A011-5C32-4991-BDC7-76BAEF6A2BF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{E09E65C2-B40F-41D5-8328-F6D80E961FE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3999B122-3921-447F-B54D-D0796F6F9462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3999B122-3921-447F-B54D-D0796F6F9462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3999B122-3921-447F-B54D-D0796F6F9462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3999B122-3921-447F-B54D-D0796F6F9462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15842EB-2621-4C67-9436-54B4600CA1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15842EB-2621-4C67-9436-54B4600CA1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15842EB-2621-4C67-9436-54B4600CA1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15842EB-2621-4C67-9436-54B4600CA1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC15A011-5C32-4991-BDC7-76BAEF6A2BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC15A011-5C32-4991-BDC7-76BAEF6A2BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC15A011-5C32-4991-BDC7-76BAEF6A2BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC15A011-5C32-4991-BDC7-76BAEF6A2BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E09E65C2-B40F-41D5-8328-F6D80E961FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09E65C2-B40F-41D5-8328-F6D80E961FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09E65C2-B40F-41D5-8328-F6D80E961FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09E65C2-B40F-41D5-8328-F6D80E961FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
